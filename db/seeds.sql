@@ -14,8 +14,8 @@ VALUES ("Technical Lead", 95000, 1),
         ("QA Specialist", 70000, 4);
 
 INSERT INTO employee (first_name, last_name, role_id, manager_id)
-VALUES ("Jakob", "Dayton", 1, 1),
-        ("David", "McWhirter", 7, 2),
+VALUES ("Jakob", "Dayton", 1),
+        ("David", "McWhirter", 7),
         ("Michael", "Hengerer", 4, 1),
         ("Ben", "Uloko", 5, 1),
         ("Nolan", "Ross", 3, 1),
